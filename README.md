@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - 📫 How to reach me 
     - [Facebook](https://www.facebook.com/profile.php?id=100046491931274)
+    - [Twitter](https://twitter.com/EldeepEldeep7)
 
 <!---
 The-Deepest-Net/The-Deepest-Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
